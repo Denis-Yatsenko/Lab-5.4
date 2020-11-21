@@ -1,0 +1,9 @@
+﻿  UnitTest5.4.cpp
+C:\Users\denfa\Desktop\Student\Lab_5.4\Lab_5.4\Source.cpp(33,23): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\denfa\Desktop\Student\Lab_5.4\Lab_5.4\Source.cpp(41,23): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\denfa\Desktop\Student\Lab_5.4\UnitTest5.4\UnitTest5.4.cpp(16,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denfa\Desktop\Student\Lab_5.4\UnitTest5.4\UnitTest5.4.cpp(22,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denfa\Desktop\Student\Lab_5.4\UnitTest5.4\UnitTest5.4.cpp(28,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denfa\Desktop\Student\Lab_5.4\UnitTest5.4\UnitTest5.4.cpp(34,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\denfa\Desktop\Student\Lab_5.4\UnitTest5.4\UnitTest5.4.cpp(40,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  UnitTest5.4.vcxproj -> C:\Users\denfa\Desktop\Student\Lab_5.4\Debug\UnitTest5.4.dll
